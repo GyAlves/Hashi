@@ -1,6 +1,16 @@
 <p align="center">
   <img src="https://ik.imagekit.io/am6iypeh5w/Hashi-logo_XOF3KBq0p.svg" width="250px" alt="Hashi" />
   <h2 align="center">Encontre seu restaurante japonês favorito, mais rápido que um ninja.</h2>
+  
+  <p align="center">
+      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GyAlves/Hashi?color=red" />
+
+  <a href="https://www.linkedin.com/in/gyasmin-assun%C3%A7%C3%A3o-223417180/">
+    <img alt="Made by Gyasmin Alves" src="https://img.shields.io/badge/made%20by-Gyasmin%20Alves-red">
+  </a>
+
+ <img alt="License" src="https://img.shields.io/github/license/GyAlves/Hashi?color=red">
+  </p>
 </p>
 
 ## Sobre 📖
